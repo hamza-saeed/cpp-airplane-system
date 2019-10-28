@@ -1,0 +1,16 @@
+﻿  NetworkServices.cpp
+  Server.cpp
+Server.cpp(54): warning C4018: '<': signed/unsigned mismatch
+Server.cpp(71): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(505): note: see declaration of 'localtime'
+Server.cpp(73): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(116): note: see declaration of 'asctime'
+Server.cpp(194): warning C4996: 'asctime': This function or variable may be unsafe. Consider using asctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\time.h(116): note: see declaration of 'asctime'
+  ServerInterface.cpp
+  ServerNetwork.cpp
+  StdAfx.cpp
+  Generating Code...
+  NetworkServices.obj : /DEBUG:FASTLINK is not supported when managed code is present; restarting link with /DEBUG:FULL
+  AirplaneServer.vcxproj -> C:\Users\Hamza\Desktop\Object Oriented Systems Development\Airplane Server\AirplaneServer\Debug\AirplaneServer.exe
+  AirplaneServer.vcxproj -> C:\Users\Hamza\Desktop\Object Oriented Systems Development\Airplane Server\AirplaneServer\Debug\AirplaneServer.pdb (Partial PDB)

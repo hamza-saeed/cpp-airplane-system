@@ -1,0 +1,25 @@
+﻿  TimeMonitor.cpp
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\timemonitor.cpp(41): warning C4018: '<': signed/unsigned mismatch
+  Temperature.cpp
+  Speed.cpp
+  Observer.cpp
+  NetworkServices.cpp
+  LatitudeLongitude.cpp
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\latitudelongitude.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\latitudelongitude.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\latitudelongitude.cpp(65): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\latitudelongitude.cpp(82): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\latitudelongitude.cpp(91): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Fuel.cpp
+  Distance.cpp
+  Client.cpp
+c:\users\hamza\desktop\object oriented systems development\airplane client\airplane client\airplane client\client.cpp(79): warning C4065: switch statement contains 'default' but no 'case' labels
+  Altitude.cpp
+  Generating Code...
+  Compiling...
+  Airplane Client.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  ClientNetwork.cpp
+  Airplane Client.vcxproj -> C:\Users\Hamza\Desktop\Object Oriented Systems Development\Airplane Client\Airplane Client\Debug\Airplane Client.exe
+  Airplane Client.vcxproj -> C:\Users\Hamza\Desktop\Object Oriented Systems Development\Airplane Client\Airplane Client\Debug\Airplane Client.pdb (Full PDB)
